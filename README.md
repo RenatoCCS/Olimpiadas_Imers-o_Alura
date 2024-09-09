@@ -1,7 +1,6 @@
 ```markdown
-## **README.md Descontraído para sua Aplicação**
 
-### **Procurando Atletas? A gente te ajuda!** 
+### **Procurando Atletas? A gente te ajuda!** - Imersão Dev com Google Gemini
 
 **O que essa aplicação faz?**
 
